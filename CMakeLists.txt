@@ -69,6 +69,7 @@ set(CHAPTERS
 
 set(1.getting_started
     1.1.hello_window
+    1.1.hello_window_ldy
     1.2.hello_window_clear
     2.1.hello_triangle
     2.2.hello_triangle_indexed
@@ -165,7 +166,7 @@ set(6.pbr
 
 set(7.in_practice
     1.debugging
-    2.text_rendering
+    # 2.text_rendering
     #3.2d_game
 )
 
